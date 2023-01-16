@@ -3,7 +3,7 @@ App made for a client and published to [PlayStore](https://play.google.com/store
 
 # Main features used in the project 
 
-- MongoDb Realm and Atlas
+- MongoDB Realm and Atlas
 - Redux
 - Google Sign-in
 - React Navigation
