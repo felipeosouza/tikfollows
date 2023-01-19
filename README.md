@@ -9,7 +9,7 @@ It may not be outstanding front-end-wise, because most of the logic is in the Re
 - State managing with Redux;
 - Two languages(English and Portuguese);
 - Google Sign-in from MongoDB;
-- React Navigation;
+- React Navigation(Stack);
 
 # Screen Recordings
 ### Google Sign-In
