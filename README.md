@@ -18,3 +18,7 @@ https://user-images.githubusercontent.com/120433923/212983434-43aa7074-a2ee-49b5
 
 ### Language Switch
 https://user-images.githubusercontent.com/120433923/212983567-6bdf0aef-d76e-4663-9d32-9abfba21db20.mp4
+### Interstitial Ad
+
+![interstitial (1)](https://github.com/felipeosouza/tikfollows/assets/120433923/1e45cedd-334e-489e-9fae-e116f7529804)
+
