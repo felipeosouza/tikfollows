@@ -1,5 +1,5 @@
 # TikFollows
-App made for a client and published to [PlayStore](https://play.google.com/store/apps/details?id=com.tfbrowser)(ctrl + click).  
+React Native app made for a client and published to [PlayStore](https://play.google.com/store/apps/details?id=com.tfbrowser)(ctrl + click).  
 
 It may not be outstanding front-end-wise, because most of the logic is in the Realm functions, which insert and delete data from the database to select the right links to be then opened through *Linking* inside the app.
 
